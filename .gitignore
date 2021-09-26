@@ -1,0 +1,4 @@
+.htaccess
+composer.phar
+template
+config/db_params.php
